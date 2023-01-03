@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@uppy/xhr-upload": "^2.1.2"
+  }
+}
